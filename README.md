@@ -9,4 +9,5 @@ Mi proyecto en C++ define una clase llamada Video que encapsula información sob
 # ¿Quién Soy?
 
 Nombre - Emilio Antonio Peralta Montiel
+
 Instituto Tecnológico y de Estudios Superiores de Monterrey
