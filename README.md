@@ -10,6 +10,7 @@ Mi proyecto en C++ define una clase llamada Video que encapsula información sob
 - [x] Uso de atributos.
 - [x] Uso de métodos.
 
+![](https://imgur.com/a/1Ok5eq3)
 
 # ¿Quién Soy?
 
