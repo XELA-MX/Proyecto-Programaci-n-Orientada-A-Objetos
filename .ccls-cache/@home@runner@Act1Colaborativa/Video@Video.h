@@ -15,7 +15,7 @@ public:
   Video();
   Video(string, string, string, int, int, int);
   void calificaVideo(int);
-  void muestraDatos();
+  virtual void muestraDatos();
 
   // Setters
   void setTipoVideo(string);
